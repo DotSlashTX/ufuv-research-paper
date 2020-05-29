@@ -201,6 +201,6 @@ The detailed write-up can be found [here](github.com/nccgroup/CrossSiteContentHi
 
 # Wrapping up
 
-Contact the author on [Twitter](https://twitter.com/0xskr1p7)
+Contact the author on [Twitter](https://twitter.com/DotSlashTX)
 
 
